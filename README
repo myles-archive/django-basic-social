@@ -1,0 +1,16 @@
+=================================================================
+Django Basic
+http://wiki.mylesbraithwaite.com/projects:django_basic:frontpage
+=================================================================
+
+A combination of simple Django projects.
+
+Third Party Applications:
+
+* http://code.google.com/p/django-basic-blog/
+* http://code.google.com/p/django-basic-places/
+* http://code.google.com/p/django-basic-people/
+* http://code.google.com/p/django-basic-library/
+* http://code.google.com/p/django-basic-profiles/
+* http://www.crummy.com/software/BeautifulSoup/
+* http://code.google.com/p/django-tagging/

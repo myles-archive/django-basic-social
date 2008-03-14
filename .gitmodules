@@ -19,3 +19,6 @@
 [submodule "blog"]
 	path = blog
 	url = git://github.com/myles/django-basic-blog.git
+[submodule "tagging"]
+	path = tagging
+	url = git://github.com/myles/django-tagging.git
