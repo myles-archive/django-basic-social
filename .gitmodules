@@ -1,0 +1,21 @@
+[submodule "profiles"]
+	path = profiles
+	url = git://github.com/myles/django-basic-profiles.git
+[submodule "music"]
+	path = music
+	url = git://github.com/myles/django-basic-library-music.git
+[submodule "books"]
+	path = books
+	url = git://github.com/myles/django-basic-library-books.git
+[submodule "movies"]
+	path = movies
+	url = git://github.com/myles/django-basic-library-movies.git
+[submodule "people"]
+	path = people
+	url = git://github.com/myles/django-basic-people.git
+[submodule "places"]
+	path = places
+	url = git://github.com/myles/django-basic-places.git
+[submodule "blog"]
+	path = blog
+	url = git://github.com/myles/django-basic-blog.git
