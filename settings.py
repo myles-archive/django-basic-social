@@ -48,7 +48,6 @@ MEDIA_URL = ''
 ADMIN_MEDIA_PREFIX = '/media/'
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = ')frxxfr2+^+otcdvt5_#bgpjs)h$zkmus)1yf+bisc!flfb*!*'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -80,4 +79,11 @@ INSTALLED_APPS = (
 	'django.contrib.admin',
 	'django.contrib.comments',
 	'django.contrib.markup',
+	'basic.blog', # Django Basic Blog
+	'basic.books', # Django Basic Library (Books)
+	'basic.movies', # Django Basic Library (Movies)
+	'basic.music', # Django Basic Library (Music)
+	'basic.people', # Django Basic People
+	'basic.profiles', # Django Basic Profiles
+	'basic.tagging', # Django Tagging
 )
