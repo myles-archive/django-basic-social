@@ -1,16 +1,14 @@
-==============================================================
-Django Basic
+h1. Django Basic
+
 http://wiki.mylesbraithwaite.com/projects:django_basic_social
-==============================================================
 
 A combination of simple Django projects.
 
-Third Party Applications:
+h2. Third Party Applications:
 
-* http://code.google.com/p/django-basic-blog/
-* http://code.google.com/p/django-basic-places/
-* http://code.google.com/p/django-basic-people/
-* http://code.google.com/p/django-basic-library/
-* http://code.google.com/p/django-basic-profiles/
-* http://www.crummy.com/software/BeautifulSoup/
-* http://code.google.com/p/django-tagging/
+* "Django Basic Blog":http://code.google.com/p/django-basic-blog/
+* "Django Basic Places":http://code.google.com/p/django-basic-places/
+* "Django Basic People":http://code.google.com/p/django-basic-people/
+* "Django Basic Library":http://code.google.com/p/django-basic-library/
+* "Django Basic Profiles":http://code.google.com/p/django-basic-profiles/
+* "Beautiful Soup":http://www.crummy.com/software/BeautifulSoup/

@@ -53,7 +53,7 @@ ADMIN_MEDIA_PREFIX = '/media/'
 TEMPLATE_LOADERS = (
 	'django.template.loaders.filesystem.load_template_source',
 	'django.template.loaders.app_directories.load_template_source',
-	#'django.template.loaders.eggs.load_template_source',
+	# 'django.template.loaders.eggs.load_template_source',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -79,11 +79,10 @@ INSTALLED_APPS = (
 	'django.contrib.admin',
 	'django.contrib.comments',
 	'django.contrib.markup',
-	'basic.blog', # Django Basic Blog
+	# 'basic.blog', # Django Basic Blog
 	'basic.books', # Django Basic Library (Books)
 	'basic.movies', # Django Basic Library (Movies)
 	'basic.music', # Django Basic Library (Music)
 	'basic.people', # Django Basic People
 	'basic.profiles', # Django Basic Profiles
-	'basic.tagging', # Django Tagging
 )
